@@ -1,0 +1,1 @@
+A example of Online Store (HTML5)

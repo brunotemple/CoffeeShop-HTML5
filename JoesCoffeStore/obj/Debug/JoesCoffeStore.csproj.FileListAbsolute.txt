@@ -1,0 +1,132 @@
+C:\Users\Te3mple\OneDrive\1.Dev\1.1.Projects\JoesCoffeStore\JoesCoffeStore\bin\ApplicationInsights.config
+C:\Users\Te3mple\OneDrive\1.Dev\1.1.Projects\JoesCoffeStore\JoesCoffeStore\bin\roslyn\csc.exe
+C:\Users\Te3mple\OneDrive\1.Dev\1.1.Projects\JoesCoffeStore\JoesCoffeStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Te3mple\OneDrive\1.Dev\1.1.Projects\JoesCoffeStore\JoesCoffeStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Te3mple\OneDrive\1.Dev\1.1.Projects\JoesCoffeStore\JoesCoffeStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Te3mple\OneDrive\1.Dev\1.1.Projects\JoesCoffeStore\JoesCoffeStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Te3mple\OneDrive\1.Dev\1.1.Projects\JoesCoffeStore\JoesCoffeStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Te3mple\OneDrive\1.Dev\1.1.Projects\JoesCoffeStore\JoesCoffeStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Te3mple\OneDrive\1.Dev\1.1.Projects\JoesCoffeStore\JoesCoffeStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Te3mple\OneDrive\1.Dev\1.1.Projects\JoesCoffeStore\JoesCoffeStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Te3mple\OneDrive\1.Dev\1.1.Projects\JoesCoffeStore\JoesCoffeStore\bin\roslyn\vbc.exe
+C:\Users\Te3mple\OneDrive\1.Dev\1.1.Projects\JoesCoffeStore\JoesCoffeStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\Te3mple\OneDrive\1.Dev\1.1.Projects\JoesCoffeStore\JoesCoffeStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Te3mple\OneDrive\1.Dev\1.1.Projects\JoesCoffeStore\JoesCoffeStore\bin\JoesCoffeStore.dll.config
+C:\Users\Te3mple\OneDrive\1.Dev\1.1.Projects\JoesCoffeStore\JoesCoffeStore\bin\JoesCoffeStore.dll
+C:\Users\Te3mple\OneDrive\1.Dev\1.1.Projects\JoesCoffeStore\JoesCoffeStore\bin\JoesCoffeStore.pdb
+C:\Users\Te3mple\OneDrive\1.Dev\1.1.Projects\JoesCoffeStore\JoesCoffeStore\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Te3mple\OneDrive\1.Dev\1.1.Projects\JoesCoffeStore\JoesCoffeStore\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Te3mple\OneDrive\1.Dev\1.1.Projects\JoesCoffeStore\JoesCoffeStore\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Te3mple\OneDrive\1.Dev\1.1.Projects\JoesCoffeStore\JoesCoffeStore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Te3mple\OneDrive\1.Dev\1.1.Projects\JoesCoffeStore\JoesCoffeStore\bin\Microsoft.AI.Web.dll
+C:\Users\Te3mple\OneDrive\1.Dev\1.1.Projects\JoesCoffeStore\JoesCoffeStore\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Te3mple\OneDrive\1.Dev\1.1.Projects\JoesCoffeStore\JoesCoffeStore\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Te3mple\OneDrive\1.Dev\1.1.Projects\JoesCoffeStore\JoesCoffeStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Te3mple\OneDrive\1.Dev\1.1.Projects\JoesCoffeStore\JoesCoffeStore\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Te3mple\OneDrive\1.Dev\1.1.Projects\JoesCoffeStore\JoesCoffeStore\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Te3mple\OneDrive\1.Dev\1.1.Projects\JoesCoffeStore\JoesCoffeStore\bin\Microsoft.AI.Web.xml
+C:\Users\Te3mple\OneDrive\1.Dev\1.1.Projects\JoesCoffeStore\JoesCoffeStore\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Te3mple\OneDrive\1.Dev\1.1.Projects\JoesCoffeStore\JoesCoffeStore\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Te3mple\OneDrive\1.Dev\1.1.Projects\JoesCoffeStore\JoesCoffeStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Te3mple\OneDrive\1.Dev\1.1.Projects\JoesCoffeStore\JoesCoffeStore\obj\Debug\JoesCoffeStore.csprojResolveAssemblyReference.cache
+C:\Users\Te3mple\OneDrive\1.Dev\1.1.Projects\JoesCoffeStore\JoesCoffeStore\obj\Debug\JoesCoffeStore.dll
+C:\Users\Te3mple\OneDrive\1.Dev\1.1.Projects\JoesCoffeStore\JoesCoffeStore\obj\Debug\JoesCoffeStore.pdb
+C:\Users\Te3mple\OneDrive\1.Dev\1.1.Projects\JoesCoffeStore\bin\ApplicationInsights.config
+C:\Users\Te3mple\OneDrive\1.Dev\1.1.Projects\JoesCoffeStore\bin\roslyn\csc.exe
+C:\Users\Te3mple\OneDrive\1.Dev\1.1.Projects\JoesCoffeStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Te3mple\OneDrive\1.Dev\1.1.Projects\JoesCoffeStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Te3mple\OneDrive\1.Dev\1.1.Projects\JoesCoffeStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Te3mple\OneDrive\1.Dev\1.1.Projects\JoesCoffeStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Te3mple\OneDrive\1.Dev\1.1.Projects\JoesCoffeStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Te3mple\OneDrive\1.Dev\1.1.Projects\JoesCoffeStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Te3mple\OneDrive\1.Dev\1.1.Projects\JoesCoffeStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Te3mple\OneDrive\1.Dev\1.1.Projects\JoesCoffeStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Te3mple\OneDrive\1.Dev\1.1.Projects\JoesCoffeStore\bin\roslyn\vbc.exe
+C:\Users\Te3mple\OneDrive\1.Dev\1.1.Projects\JoesCoffeStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\Te3mple\OneDrive\1.Dev\1.1.Projects\JoesCoffeStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Te3mple\OneDrive\1.Dev\1.1.Projects\JoesCoffeStore\bin\JoesCoffeStore.dll.config
+C:\Users\Te3mple\OneDrive\1.Dev\1.1.Projects\JoesCoffeStore\bin\JoesCoffeStore.dll
+C:\Users\Te3mple\OneDrive\1.Dev\1.1.Projects\JoesCoffeStore\bin\JoesCoffeStore.pdb
+C:\Users\Te3mple\OneDrive\1.Dev\1.1.Projects\JoesCoffeStore\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Te3mple\OneDrive\1.Dev\1.1.Projects\JoesCoffeStore\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Te3mple\OneDrive\1.Dev\1.1.Projects\JoesCoffeStore\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Te3mple\OneDrive\1.Dev\1.1.Projects\JoesCoffeStore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Te3mple\OneDrive\1.Dev\1.1.Projects\JoesCoffeStore\bin\Microsoft.AI.Web.dll
+C:\Users\Te3mple\OneDrive\1.Dev\1.1.Projects\JoesCoffeStore\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Te3mple\OneDrive\1.Dev\1.1.Projects\JoesCoffeStore\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Te3mple\OneDrive\1.Dev\1.1.Projects\JoesCoffeStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Te3mple\OneDrive\1.Dev\1.1.Projects\JoesCoffeStore\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Te3mple\OneDrive\1.Dev\1.1.Projects\JoesCoffeStore\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Te3mple\OneDrive\1.Dev\1.1.Projects\JoesCoffeStore\bin\Microsoft.AI.Web.xml
+C:\Users\Te3mple\OneDrive\1.Dev\1.1.Projects\JoesCoffeStore\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Te3mple\OneDrive\1.Dev\1.1.Projects\JoesCoffeStore\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Te3mple\OneDrive\1.Dev\1.1.Projects\JoesCoffeStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Te3mple\OneDrive\1.Dev\1.1.Projects\JoesCoffeStore\obj\Debug\JoesCoffeStore.csprojResolveAssemblyReference.cache
+C:\Users\Te3mple\OneDrive\1.Dev\1.1.Projects\JoesCoffeStore\obj\Debug\JoesCoffeStore.dll
+C:\Users\Te3mple\OneDrive\1.Dev\1.1.Projects\JoesCoffeStore\obj\Debug\JoesCoffeStore.pdb
+C:\Users\bruno\OneDrive\1.Dev\1.1.Projects\New folder\JoesCoffeStore\bin\ApplicationInsights.config
+C:\Users\bruno\OneDrive\1.Dev\1.1.Projects\New folder\JoesCoffeStore\bin\roslyn\csc.exe
+C:\Users\bruno\OneDrive\1.Dev\1.1.Projects\New folder\JoesCoffeStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bruno\OneDrive\1.Dev\1.1.Projects\New folder\JoesCoffeStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bruno\OneDrive\1.Dev\1.1.Projects\New folder\JoesCoffeStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bruno\OneDrive\1.Dev\1.1.Projects\New folder\JoesCoffeStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bruno\OneDrive\1.Dev\1.1.Projects\New folder\JoesCoffeStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bruno\OneDrive\1.Dev\1.1.Projects\New folder\JoesCoffeStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bruno\OneDrive\1.Dev\1.1.Projects\New folder\JoesCoffeStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bruno\OneDrive\1.Dev\1.1.Projects\New folder\JoesCoffeStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bruno\OneDrive\1.Dev\1.1.Projects\New folder\JoesCoffeStore\bin\roslyn\vbc.exe
+C:\Users\bruno\OneDrive\1.Dev\1.1.Projects\New folder\JoesCoffeStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\bruno\OneDrive\1.Dev\1.1.Projects\New folder\JoesCoffeStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bruno\OneDrive\1.Dev\1.1.Projects\New folder\JoesCoffeStore\bin\JoesCoffeStore.dll.config
+C:\Users\bruno\OneDrive\1.Dev\1.1.Projects\New folder\JoesCoffeStore\bin\JoesCoffeStore.dll
+C:\Users\bruno\OneDrive\1.Dev\1.1.Projects\New folder\JoesCoffeStore\bin\JoesCoffeStore.pdb
+C:\Users\bruno\OneDrive\1.Dev\1.1.Projects\New folder\JoesCoffeStore\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\bruno\OneDrive\1.Dev\1.1.Projects\New folder\JoesCoffeStore\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\bruno\OneDrive\1.Dev\1.1.Projects\New folder\JoesCoffeStore\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\bruno\OneDrive\1.Dev\1.1.Projects\New folder\JoesCoffeStore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\bruno\OneDrive\1.Dev\1.1.Projects\New folder\JoesCoffeStore\bin\Microsoft.AI.Web.dll
+C:\Users\bruno\OneDrive\1.Dev\1.1.Projects\New folder\JoesCoffeStore\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\bruno\OneDrive\1.Dev\1.1.Projects\New folder\JoesCoffeStore\bin\Microsoft.ApplicationInsights.dll
+C:\Users\bruno\OneDrive\1.Dev\1.1.Projects\New folder\JoesCoffeStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bruno\OneDrive\1.Dev\1.1.Projects\New folder\JoesCoffeStore\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\bruno\OneDrive\1.Dev\1.1.Projects\New folder\JoesCoffeStore\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\bruno\OneDrive\1.Dev\1.1.Projects\New folder\JoesCoffeStore\bin\Microsoft.AI.Web.xml
+C:\Users\bruno\OneDrive\1.Dev\1.1.Projects\New folder\JoesCoffeStore\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\bruno\OneDrive\1.Dev\1.1.Projects\New folder\JoesCoffeStore\bin\Microsoft.ApplicationInsights.xml
+C:\Users\bruno\OneDrive\1.Dev\1.1.Projects\New folder\JoesCoffeStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bruno\OneDrive\1.Dev\1.1.Projects\New folder\JoesCoffeStore\obj\Debug\JoesCoffeStore.csprojResolveAssemblyReference.cache
+C:\Users\bruno\OneDrive\1.Dev\1.1.Projects\New folder\JoesCoffeStore\obj\Debug\JoesCoffeStore.dll
+C:\Users\bruno\OneDrive\1.Dev\1.1.Projects\New folder\JoesCoffeStore\obj\Debug\JoesCoffeStore.pdb
+C:\Users\bruno\OneDrive\1.Dev\1.1.Projects\CoffeeShop-HTML5\JoesCoffeStore\bin\ApplicationInsights.config
+C:\Users\bruno\OneDrive\1.Dev\1.1.Projects\CoffeeShop-HTML5\JoesCoffeStore\bin\roslyn\csc.exe
+C:\Users\bruno\OneDrive\1.Dev\1.1.Projects\CoffeeShop-HTML5\JoesCoffeStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bruno\OneDrive\1.Dev\1.1.Projects\CoffeeShop-HTML5\JoesCoffeStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bruno\OneDrive\1.Dev\1.1.Projects\CoffeeShop-HTML5\JoesCoffeStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bruno\OneDrive\1.Dev\1.1.Projects\CoffeeShop-HTML5\JoesCoffeStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bruno\OneDrive\1.Dev\1.1.Projects\CoffeeShop-HTML5\JoesCoffeStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bruno\OneDrive\1.Dev\1.1.Projects\CoffeeShop-HTML5\JoesCoffeStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bruno\OneDrive\1.Dev\1.1.Projects\CoffeeShop-HTML5\JoesCoffeStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bruno\OneDrive\1.Dev\1.1.Projects\CoffeeShop-HTML5\JoesCoffeStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bruno\OneDrive\1.Dev\1.1.Projects\CoffeeShop-HTML5\JoesCoffeStore\bin\roslyn\vbc.exe
+C:\Users\bruno\OneDrive\1.Dev\1.1.Projects\CoffeeShop-HTML5\JoesCoffeStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\bruno\OneDrive\1.Dev\1.1.Projects\CoffeeShop-HTML5\JoesCoffeStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bruno\OneDrive\1.Dev\1.1.Projects\CoffeeShop-HTML5\JoesCoffeStore\bin\JoesCoffeStore.dll.config
+C:\Users\bruno\OneDrive\1.Dev\1.1.Projects\CoffeeShop-HTML5\JoesCoffeStore\bin\JoesCoffeStore.dll
+C:\Users\bruno\OneDrive\1.Dev\1.1.Projects\CoffeeShop-HTML5\JoesCoffeStore\bin\JoesCoffeStore.pdb
+C:\Users\bruno\OneDrive\1.Dev\1.1.Projects\CoffeeShop-HTML5\JoesCoffeStore\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\bruno\OneDrive\1.Dev\1.1.Projects\CoffeeShop-HTML5\JoesCoffeStore\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\bruno\OneDrive\1.Dev\1.1.Projects\CoffeeShop-HTML5\JoesCoffeStore\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\bruno\OneDrive\1.Dev\1.1.Projects\CoffeeShop-HTML5\JoesCoffeStore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\bruno\OneDrive\1.Dev\1.1.Projects\CoffeeShop-HTML5\JoesCoffeStore\bin\Microsoft.AI.Web.dll
+C:\Users\bruno\OneDrive\1.Dev\1.1.Projects\CoffeeShop-HTML5\JoesCoffeStore\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\bruno\OneDrive\1.Dev\1.1.Projects\CoffeeShop-HTML5\JoesCoffeStore\bin\Microsoft.ApplicationInsights.dll
+C:\Users\bruno\OneDrive\1.Dev\1.1.Projects\CoffeeShop-HTML5\JoesCoffeStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bruno\OneDrive\1.Dev\1.1.Projects\CoffeeShop-HTML5\JoesCoffeStore\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\bruno\OneDrive\1.Dev\1.1.Projects\CoffeeShop-HTML5\JoesCoffeStore\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\bruno\OneDrive\1.Dev\1.1.Projects\CoffeeShop-HTML5\JoesCoffeStore\bin\Microsoft.AI.Web.xml
+C:\Users\bruno\OneDrive\1.Dev\1.1.Projects\CoffeeShop-HTML5\JoesCoffeStore\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\bruno\OneDrive\1.Dev\1.1.Projects\CoffeeShop-HTML5\JoesCoffeStore\bin\Microsoft.ApplicationInsights.xml
+C:\Users\bruno\OneDrive\1.Dev\1.1.Projects\CoffeeShop-HTML5\JoesCoffeStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bruno\OneDrive\1.Dev\1.1.Projects\CoffeeShop-HTML5\JoesCoffeStore\obj\Debug\JoesCoffeStore.csprojResolveAssemblyReference.cache
+C:\Users\bruno\OneDrive\1.Dev\1.1.Projects\CoffeeShop-HTML5\JoesCoffeStore\obj\Debug\JoesCoffeStore.dll
+C:\Users\bruno\OneDrive\1.Dev\1.1.Projects\CoffeeShop-HTML5\JoesCoffeStore\obj\Debug\JoesCoffeStore.pdb
